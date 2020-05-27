@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TodoList from './TodoList'
+
 import ReduxDemo from './ReduxDemo'
+// Provider提供器，将store提供给provider内部组件
 import {Provider} from 'react-redux'
 
 
